@@ -1,0 +1,17 @@
+{
+  "$schema": "https://raw.githubusercontent.com/openclaw/openclaw/main/schemas/skill-config.schema.json",
+  "name": "opencode-integration",
+  "version": "1.0.0",
+  "category": "02-DEVELOPMENT",
+  "description": "从 /home/guanhb/.openclaw/workspace/skills/opencode-integration 迁移",
+  "migration_date": "2026-03-10",
+  "features": [
+    "标准化的技能结构",
+    "自动化安装脚本",
+    "集成测试",
+    "配置模板"
+  ],
+  "requirements": {
+    "openclaw": ">=1.0.0"
+  }
+}

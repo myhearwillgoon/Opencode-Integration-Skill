@@ -1,0 +1,19 @@
+{
+  "skill_name": "opencode-integration",
+  "original_name": "opencode-integration",
+  "category": "02-DEVELOPMENT",
+  "migration_date": "2026-03-10",
+  "version": "1.0.0",
+  "source_path": "/home/guanhb/.openclaw/workspace/skills/opencode-integration",
+  "target_path": "/mnt/d/One-Drive/OneDrive - Imperial College London/OpenClaw-Shared/skills-shared/02-DEVELOPMENT/opencode-integration",
+  "enhancements": [
+    "standardized_structure",
+    "installation_script",
+    "test_script",
+    "config_templates",
+    "examples",
+    "changelog"
+  ],
+  "file_count": 7,
+  "total_size": 12
+}
