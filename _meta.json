@@ -4,16 +4,25 @@
   "category": "02-DEVELOPMENT",
   "migration_date": "2026-03-10",
   "version": "1.0.0",
+  "updated": "2026-04-14",
+  "author": "OpenClaw User",
   "source_path": "/home/guanhb/.openclaw/workspace/skills/opencode-integration",
   "target_path": "/mnt/d/One-Drive/OneDrive - Imperial College London/OpenClaw-Shared/skills-shared/02-DEVELOPMENT/opencode-integration",
+  "repository": "https://github.com/myhearwillgoon/Opencode-Integration-Skill",
   "enhancements": [
     "standardized_structure",
     "installation_script",
     "test_script",
     "config_templates",
     "examples",
-    "changelog"
+    "changelog",
+    "readme",
+    "license"
   ],
-  "file_count": 7,
-  "total_size": 12
+  "file_count": 9,
+  "total_size": 12,
+  "description": "通过 OpenCode CLI 调用和使用 OpenCode AI 编程助手",
+  "platforms": ["linux", "macos", "wsl"],
+  "tags": ["opencode", "coding", "ai", "cli", "integration"],
+  "triggers": ["opencode", "open code", "coding agent"]
 }
